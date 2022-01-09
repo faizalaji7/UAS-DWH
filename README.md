@@ -1,7 +1,6 @@
-# Sales Forecasting Product Using Arima Method and Streamlit Library
 # Prediksi Penjualan Produk Menggunakan Metode Arima dan Streamlit Library
 
-By Faizal Aji Wibowo - 19090104
+Oleh Faizal Aji Wibowo - 19090104
 
 1. UI - Input for Analysis
 ![UI 1 - Input for Analysis](https://user-images.githubusercontent.com/74334556/148688868-97cb178d-569e-4428-87c0-54f61362b98d.png)
